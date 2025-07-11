@@ -1,1 +1,6 @@
-
+__pycache__/
+*.pyc
+*.db
+videos.db
+.env
+venv/
